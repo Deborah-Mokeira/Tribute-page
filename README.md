@@ -29,7 +29,7 @@ You can view a live demo of the tribute page here: https://deborah-mokeira.githu
 #Installation
 
 •	To install and run this tribute page on your local machine, follow these steps:
-•	Clone this repository using git clone  https://deborah-mokeira.github.io/Tribute-page/.git
+•	Clone this repository using git clone https://github.com/yourusername/weather-app.git
 •	Navigate to the project directory using cd tribute-page.
 •	Open the index.html file in your preferred browser.
 
